@@ -1,5 +1,5 @@
 # Hey there, I'm Harshith Nair:
-- I love building things with code and solving real-world problems.<br>- Tech stack: HTML, CSS, JavaScript, Python, C++<br>- Currently exploring: Web3, System Design, and cybersecurity<br><br>- Always learning something new<br>- Goal: Become a better developer every day<br>- Gajshield Hack X 2026 National Level Hackathon WINNER🏆<br><br>Let's connect and build something awesome!
+I love building things with code and solving real-world problems.<br>- Tech stack: HTML, CSS, JavaScript, Python, C++<br>- Currently exploring: Web3, System Design, and cybersecurity<br><br>- Always learning something new<br>- Goal: Become a better developer every day<br>- Gajshield Hack X 2026 National Level Hackathon WINNER🏆<br><br>Let's connect and build something awesome!
 
 
 ## 🌐 Socials:
